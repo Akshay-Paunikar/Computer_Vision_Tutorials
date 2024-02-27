@@ -11,3 +11,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 01. Reading an image in OpenCV using Python
 02. Display an image in OpenCV using Python
 03. Writing an image in OpenCV using Python
+04. Color Spaces in OpenCV
