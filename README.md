@@ -9,3 +9,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 #### Working with Images
 
 01. Reading an image in OpenCV using Python
+02. Display an image in OpenCV using Python
