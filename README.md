@@ -17,3 +17,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 ##### Image Processing
 
 01. Image Resizing using OpenCV
+02. Eroding an image
