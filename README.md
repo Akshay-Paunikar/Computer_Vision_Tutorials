@@ -13,3 +13,7 @@ This repository contains tutorials for OpenCV and Computer Vision
 03. Writing an image in OpenCV using Python
 04. Color Spaces in OpenCV
 05. Arithmetic Operations on images using OpenCV
+
+##### Image Processing
+
+01. Image Resizing using OpenCV
