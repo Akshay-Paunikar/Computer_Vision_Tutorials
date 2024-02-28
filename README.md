@@ -20,3 +20,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 02. Eroding an image
 03. Image Blurring using OpenCV
 04. Create Border around images
+05. Grayscaling of images using OpenCV
