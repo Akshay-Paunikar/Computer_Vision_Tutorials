@@ -25,3 +25,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 07. Erosion and Dilation of images using OpenCV
 08. Analyze an image using Histogram
 09. Histograms Equalization in OpenCV
+10. Thresholding techniques using OpenCV
