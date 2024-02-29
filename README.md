@@ -27,3 +27,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 09. Histograms Equalization in OpenCV
 10. Thresholding techniques using OpenCV
 11. Convert an image from one color space to another
+12. Filter Color with OpenCV
