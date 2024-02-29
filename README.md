@@ -22,3 +22,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 04. Create Border around images
 05. Grayscaling of images using OpenCV
 06. Scaling, Rotating, Shifting and Edge Detection
+07. Erosion and Dilation of images using OpenCV
