@@ -28,3 +28,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 10. Thresholding techniques using OpenCV
 11. Convert an image from one color space to another
 12. Filter Color with OpenCV
+13. Denoising of colored images using OpenCV
