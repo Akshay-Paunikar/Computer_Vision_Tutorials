@@ -30,3 +30,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 12. Filter Color with OpenCV
 13. Denoising of colored images using OpenCV
 14. Find Co-ordinates of Contours using OpenCV
+15. Bilateral Filtering
