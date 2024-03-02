@@ -32,3 +32,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 14. Find Co-ordinates of Contours using OpenCV
 15. Bilateral Filtering
 16. Image Inpainting using OpenCV
+17. Intensity Transformation Operations on Images
