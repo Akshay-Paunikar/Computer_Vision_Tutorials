@@ -35,3 +35,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 17. Intensity Transformation Operations on Images
 18. Image Registration using OpenCV
 19. Background substraction using OpenCV
+20. Background Subtraction in an Image using Concept of Running Average
