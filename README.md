@@ -33,3 +33,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 15. Bilateral Filtering
 16. Image Inpainting using OpenCV
 17. Intensity Transformation Operations on Images
+18. Image Registration using OpenCV
