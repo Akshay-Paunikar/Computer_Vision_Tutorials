@@ -40,3 +40,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 22. Morphological Operations in Image Processing
 23. Image segmentation using Morphological operations
 24. Image Translation
+25. Image Pyramid
