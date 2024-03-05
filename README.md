@@ -37,3 +37,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 19. Background substraction using OpenCV
 20. Background substraction in an Image using Concept of Running Average
 21. Foreground Extraction in an Image using Grabcut Algorithm
+22. Morphological Operations in Image Processing
