@@ -2,6 +2,32 @@
 import cv2
 import numpy as np
 
+# read the image
+image = cv2.imread('corner1.png')
+
+cv2.imshow("image", image)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+
+# convert image to gray scale image
+gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+
+# detect corners with the goodFeaturesToTrack function.
+corners = cv2.goodFeaturesToTrack(gray, 27, 0.01, 10)
+corners = np.int0(corners)
+
+# we iterate through each corner,
+# making a circle at each point that we think is a corner.
+for i in corners:
+    x, y = i.ravel()
+    cv2.circle(image, (x, y), 3, 255, -1)
+
+cv2.imshow("image", image)
+
+# De-allocate any associated memory usage
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+
 # read the input image
 image = cv2.imread("chess.png")
 
