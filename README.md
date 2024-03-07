@@ -49,3 +49,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 03. Corner Detection
 04. Find Circles & Ellipses
 05. Document field detection using Template Matching
+06. Smile Detection
