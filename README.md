@@ -54,3 +54,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 ##### Drawing Functions
 
 01. Draw a line
+02. Draw arrow segment
