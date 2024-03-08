@@ -50,3 +50,7 @@ This repository contains tutorials for OpenCV and Computer Vision
 04. Find Circles & Ellipses
 05. Document field detection using Template Matching
 06. Smile Detection
+
+##### Drawing Functions
+
+01. Draw a line
