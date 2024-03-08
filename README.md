@@ -57,3 +57,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 02. Draw arrow segment
 03. Draw an ellipse
 04. Draw a circle
+05. Draw a rectangle
