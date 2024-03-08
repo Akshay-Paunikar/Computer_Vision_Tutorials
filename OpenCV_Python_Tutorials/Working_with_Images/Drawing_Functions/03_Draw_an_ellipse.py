@@ -16,7 +16,7 @@ cv2.destroyAllWindows()
 image = cv2.imread("puppy.jpg", 1)
 print(image.shape)
 # draw an ellipse
-image = cv2.ellipse(image, (400,300), (100,50), 30, 0, 360, (0,0,255), 5)
+image = cv2.ellipse(image, (400,300), (100,50), 30, 0, 360, (0,0,255), -1)
 
 cv2.imshow("image", image)
 cv2.waitKey(0)
