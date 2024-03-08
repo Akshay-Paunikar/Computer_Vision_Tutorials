@@ -60,3 +60,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 05. Draw a rectangle
 06. Draw a text string
 07. Find and draw contours
+08. Draw a triangle with centroid
