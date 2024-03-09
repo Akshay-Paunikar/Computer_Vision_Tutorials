@@ -65,3 +65,4 @@ This repository contains tutorials for OpenCV and Computer Vision
 #### Working with Videos
 
 01. Play a video using OpenCV
+02. Create video using multiple images using OpenCV
