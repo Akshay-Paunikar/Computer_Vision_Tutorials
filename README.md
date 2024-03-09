@@ -61,3 +61,7 @@ This repository contains tutorials for OpenCV and Computer Vision
 06. Draw a text string
 07. Find and draw contours
 08. Draw a triangle with centroid
+
+#### Working with Videos
+
+01. Play a video using OpenCV
