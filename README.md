@@ -67,3 +67,7 @@ This repository contains tutorials for OpenCV and Computer Vision
 01. Play a video using OpenCV
 02. Create video using multiple images using OpenCV
 03. Extract images from video
+
+#### Applications & Projects
+
+01. Extract frames using OpenCV
